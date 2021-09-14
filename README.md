@@ -4,7 +4,7 @@
 
 **About Me:**
 
-- I’m currently student at Shahid Beheshti University.
+- I’m currently studying at Shahid Beheshti University.
 - I love learning different things.
 - How to reach me: via [mail](mailto:rsharifnasab@gmail.com)
 - Check out [virgool](https://virgool.io/@rsharifnasab) and [my telegram channel](https://t.me/terminal_stuff).
@@ -14,8 +14,8 @@
 **Notes:**
 
 - Check out my Dotfiles [here](https://github.com/rsharifnasab/dotfiles)
-- If I learn something, I'll put it in [my learning repo](https://github.com/rsharifnasab/my-learning)
-- If a repo hasn't had new commits recently, _maybe_ because I consider it a finished project, not because it's abandoned :D
+- [My learning repo](https://github.com/rsharifnasab/my-learning) is where I share things that I have learned.
+- If I didn't respond to your issues or pull requests, please send me via email too.
 
 &#x200B;
 
