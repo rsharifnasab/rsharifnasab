@@ -15,7 +15,7 @@
 
 - Check out my Dotfiles [here](https://github.com/rsharifnasab/dotfiles)
 - [My learning repo](https://github.com/rsharifnasab/my-learning) is where I share things that I have learned.
-- If I didn't respond to your issues or pull requests, please send me via email too.
+- If I didn't respond to your issues or pull requests, please email them to me.
 
 &#x200B;
 
