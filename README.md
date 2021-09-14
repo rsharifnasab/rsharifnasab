@@ -5,17 +5,21 @@
 **About Me:**
 
 - I’m currently student at Shahid Beheshti University.
-- I love learning different languages.
+- I love learning different things.
 - How to reach me: via [mail](mailto:rsharifnasab@gmail.com)
+- Check out [virgool](https://virgool.io/@rsharifnasab) and [my telegram channel](https://t.me/terminal_stuff).
 
 &#x200B;
 
 **Notes:**
 
-- Dotfiles: [here](https://github.com/rsharifnasab/dotfiles)
+- Check out my Dotfiles [here](https://github.com/rsharifnasab/dotfiles)
+- Check my learn something, I'll put it in [my learning](https://github.com/rsharifnasab/my-learning)
 - If a repo hasn't had new commits recently, _maybe_ because I consider it a finished project, not because it's abandoned :D
 
-**Stats**
+&#x200B;
+
+**Stats**:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsharifnasab&layout=compact&theme=algolia" alt="rsharifnasab" /> </p>
 
