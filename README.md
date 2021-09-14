@@ -14,7 +14,7 @@
 **Notes:**
 
 - Check out my Dotfiles [here](https://github.com/rsharifnasab/dotfiles)
-- Check my learn something, I'll put it in [my learning](https://github.com/rsharifnasab/my-learning)
+- If I learn something, I'll put it in [my learning repo](https://github.com/rsharifnasab/my-learning)
 - If a repo hasn't had new commits recently, _maybe_ because I consider it a finished project, not because it's abandoned :D
 
 &#x200B;
