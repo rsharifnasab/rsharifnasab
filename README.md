@@ -23,6 +23,9 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsharifnasab&layout=compact&theme=algolia" alt="rsharifnasab" /> </p>
 
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=rsharifnasab&show_icons=true&theme=algolia"/>
+</p>
 [![Roozbeh's github stats](https://github-readme-stats.vercel.app/api?username=rsharifnasab&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
