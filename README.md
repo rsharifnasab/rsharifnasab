@@ -5,9 +5,9 @@
 **About Me:**
 
 - I’m currently studying at Shahid Beheshti University.
-- I love learning different things.
+- I love learning how things work.
 - How to reach me: via [mail](mailto:rsharifnasab@gmail.com)
-- Check out [virgool](https://virgool.io/@rsharifnasab) and [my telegram channel](https://t.me/terminal_stuff).
+- Check out [my persian blog in virgool](https://virgool.io/@rsharifnasab) and [my telegram channel](https://t.me/terminal_stuff).
 
 &#x200B;
 
@@ -21,11 +21,14 @@
 
 **Stats**:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsharifnasab&layout=compact&theme=algolia" alt="rsharifnasab" /> </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsharifnasab&layout=compact&theme=algolia" alt="rsharifnasab" /> 
+</p>
 
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=rsharifnasab&show_icons=true&theme=algolia"/>
 </p>
-[![Roozbeh's github stats](https://github-readme-stats.vercel.app/api?username=rsharifnasab&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" />
+</p>
