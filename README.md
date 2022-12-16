@@ -28,6 +28,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=rsharifnasab&show_icons=true&theme=algolia"/>
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" />
-</p>
