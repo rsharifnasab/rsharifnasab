@@ -1,6 +1,6 @@
 <h1 align="center">Hey! I'm Roozbeh</h1>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rsharifnasab&theme=onedark&margin-w=12&margin-h=10&column=7&no-frame=true" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=rsharifnasab&theme=onedark&margin-w=12&margin-h=10&column=7&no-frame=true&title=MultiLanguage,Commits,PullRequests,Issues,Stars,Followers,Experience" alt="Trophies" />
 
 **About Me:**
 
@@ -14,7 +14,7 @@
 **Notes:**
 
 - Check out my Dotfiles [here](https://github.com/rsharifnasab/dotfiles)
-- [My learning repository](https://github.com/rsharifnasab/my-learning) is where I share things that I have learned.
+- [My learning repository](https://github.com/rsharifnasab/my-learning) is where I share things I have learned.
 
 &#x200B;
 
