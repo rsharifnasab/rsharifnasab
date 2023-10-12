@@ -1,6 +1,9 @@
 <h1 align="center">Hey! I'm Roozbeh</h1>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rsharifnasab&theme=onedark&margin-w=12&margin-h=10&column=7&no-frame=true&title=MultiLanguage,Commits,PullRequests,Issues,Stars,Followers,Experience" alt="Trophies" />
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rsharifnasab&theme=onedark&margin-w=12&margin-h=10&column=7&no-frame=true&title=MultiLanguage,Commits,PullRequest,Issues,Stars,Followers,Experience" alt="Trophies" />
+</p>
+
 
 **About Me:**
 
