@@ -24,6 +24,8 @@
 
 **Stats**:
 
+[![An image of @rsharifnasab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rsharifnasab)](https://holopin.io/@rsharifnasab)
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsharifnasab&layout=compact&theme=algolia" alt="rsharifnasab" /> 
 </p>
