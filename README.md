@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Roozbeh</h1>
 
 
-**About Me:**
+**About Me**
 
 - I am currently working as a Software Engineer at Snapp.
 - I recently graduated from Shahid Beheshti University.
@@ -12,14 +12,14 @@
 
 &#x200B;
 
-**Notes:**
+**Notes**
 
 - Check out my Dotfiles [here](https://github.com/rsharifnasab/dotfiles)
 - [My learning repository](https://github.com/rsharifnasab/my-learning) is where I share things I have learned.
 
 &#x200B;
 
-**Stats**:
+**Stats**
 
 
 <p align="center">
