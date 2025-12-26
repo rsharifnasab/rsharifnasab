@@ -1,9 +1,5 @@
 <h1 align="center">Hey! I'm Roozbeh</h1>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rsharifnasab&theme=onedark&margin-w=12&margin-h=10&column=7&no-frame=true&title=MultiLanguage,Commits,PullRequest,Issues,Stars,Followers,Experience" alt="Trophies" />
-</p>
-
 
 **About Me:**
 
@@ -28,10 +24,6 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsharifnasab&layout=compact&theme=algolia" alt="rsharifnasab" /> 
-</p>
-
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=rsharifnasab&show_icons=true&theme=algolia"/>
 </p>
 
 [![An image of @rsharifnasab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rsharifnasab)](https://holopin.io/@rsharifnasab)
