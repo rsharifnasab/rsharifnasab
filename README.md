@@ -17,15 +17,4 @@
 - Check out my Dotfiles [here](https://github.com/rsharifnasab/dotfiles)
 - [My learning repository](https://github.com/rsharifnasab/my-learning) is where I share things I have learned.
 
-&#x200B;
-
-**Stats**
-
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsharifnasab&layout=compact&theme=algolia" alt="rsharifnasab" /> 
-</p>
-
-[![An image of @rsharifnasab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rsharifnasab)](https://holopin.io/@rsharifnasab)
-
 
